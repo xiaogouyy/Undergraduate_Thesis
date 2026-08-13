@@ -1,0 +1,15 @@
+# data_collection.py
+praw
+tqdm
+python-dateutil
+python-dotenv
+
+# regression_and_hypothesis_testing.py
+pandas
+statsmodels
+scikit-learn
+openpyxl
+
+# google_nlp_quantify.py
+google-cloud-language
+google-auth
