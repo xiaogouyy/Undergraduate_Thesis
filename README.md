@@ -13,7 +13,23 @@ Online Brand Communities (OBCs) are increasingly hotbeds for **Consumer-to-Consu
 
 This dissertation empirically investigates **how the social boundary of a conflict moderates the effect of a brand's response style on post-conflict customer sentiment**. It combines **Social Identity Theory (SIT)** with **Organizational Justice Theory**, and uses a large real-world dataset of Reddit brand-community conversations to test whether "intuitively appropriate" brand responses actually work.
 
-**Headline finding:** Brand response styles do *not* operate in a uniformly beneficial way. Responses that seem appropriate often backfire — assertive responses intensify negativity in intergroup conflicts, and cooperative responses can worsen sentiment in both intergroup and intragroup disputes. Customers evaluate brand interventions not only through identity protection, but through **fairness, legitimacy, and communicative appropriateness**.
+---
+
+## 🔑 Headline Result
+
+> **Brand response styles do *not* work in a uniformly beneficial way — the responses that feel intuitively appropriate often backfire.**
+>
+> Assertive responses *intensify* negativity in intergroup conflicts, and cooperative ("friendly") responses can *worsen* sentiment in both intergroup and intragroup disputes — a cooperative gesture toward rivals reads as a betrayal of in-group loyalty. Customers evaluate brand interventions not only through **identity protection**, but through **fairness, legitimacy, and communicative appropriateness**. The right move depends on the interaction between the **conflict boundary** and the **social meaning** attached to the response style.
+
+This translates into a concrete, scenario-specific playbook for community managers — the **C2C Conflict Response Strategy Matrix**:
+
+| Conflict Type | Participant Dynamics | Recommended Assertiveness | Recommended Cooperativeness | Core Strategic Orientation |
+|---|---|---|---|---|
+| **Intragroup** | Loyal Fans vs. Loyal Fans | Low | Low to Moderate | Avoiding or Compromising |
+| **Intergroup** | In-group Fans vs. Rival Out-group | Low | Low | Avoiding |
+| **Outergroup** | Out-group rivals vs. Out-group rivals | Moderate | Moderate | Compromising / Collaborating / Accommodating |
+
+<sub>*The counter-intuitive core: in most conflict settings, restraint (low assertiveness, low cooperativeness) protects community sentiment better than active identity-defending intervention.*</sub>
 
 ---
 
